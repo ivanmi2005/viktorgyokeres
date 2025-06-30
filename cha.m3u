@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR ACCION FHD --> NEW ERA
 acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR ACCION HD --> NEW ERA VI
+acestream://5e188434344241c850ba4c9f602b67a5c6408007
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR CLASICOS FHD --> NEW ERA
 acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/comedia-por-movistar-plus-es.png" tvg-id="M+ Comedia HD" group-title="MOVISTAR", MOVISTAR COMEDIA HD --> NEW ERA VI
@@ -83,7 +85,7 @@ acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 SD --> ELCANO
 acestream://c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA HD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA FHD --> NEW ERA VI
 acestream://21e9665716b55d61bf7fe5a8f91a5ea8249d8047
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
@@ -335,7 +337,7 @@ acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 acestream://8677d339ecddd75165c0015025f598b6215974cf
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CANAL EVENTOS UFC - FOXSPORTS PREMIUNMX --> NEW ERA
 acestream://04d8f9a91f551adb9cccbcdd478cffa5b24a6772
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dedporte 2 FHD --> ELCANO
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Deporte 2 FHD --> ELCANO
 acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Deporte FHD --> ELCANO
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
@@ -355,6 +357,8 @@ acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
 acestream://5cd66f03a0042d918eea175fdeeaa57052c9308a
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESPORT 3 FHD --> NEW ERA
 acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR DRAMA HD --> NEW ERA VI
+acestream://1fdde474d884b0bb73342133a1db520ec35cec8f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR ESTRENOS FHD --> NEW ERA VI
 acestream://cdac68c671cc9157c3fc55d7797d281ff32bedff
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR HITS FHD --> NEW ERA VI
@@ -363,16 +367,12 @@ acestream://577089d6680145f502ba2a1072179e120f43cc10
 acestream://7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ONETORO (solo eventos)--> NEW ERA III
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Orange TV --> NEW LOOP
-acestream://abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="OTROS", SKY SPORTS ARENA --> NEW LOOP
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", SKY SPORTS CRICKET --> NEW LOOP
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL --> NEW LOOP
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD --> NEW LOOP
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", test
@@ -383,7 +383,7 @@ acestream://a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
 acestream://3f23e772f30c5f127609cbef8aa904219b63caef
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: S SPORT 2 HD --> NEW ERA
 acestream://999db87cb68b0a671d61a858da7d79dd97b0c0a4
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC 317 ESPN --> NEW ERA
-acestream://f3fdef8de18c33683856c1eb9240f696f43f2e28
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Tênis: Wimbledon 2025 [DISNEY] --> NEW ERA
+acestream://92adffb05fbd616bc9ab8e71665be05952880cdf
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC Fight Pass --> NEW ERA
 acestream://0ce88d9e7273fddbc9b49f578b6b255513697139
