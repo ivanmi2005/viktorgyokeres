@@ -697,13 +697,13 @@ acestream://0fd4f67cf45972174a39c76b7d9e89d689479825
 acestream://5aa6e076ce20b1bd99aac106024fe7aef4e4147c
 #EXTINF:-1 tvg-id="mpluslaliga" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="TEST",M+ LaLiga ➡ Unknown
 acestream://27c4f235d7c180c92089f15bb1994f28a53bd0e2
-#EXTINF:-1 tvg-id="mpluslaliga" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="TEST",M+ LaLiga ➡ Unknown
+#EXTINF:-1 tvg-id="mpluslaliga" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga ➡ NEW LOOP 1
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-id="mpluslaliga" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="TEST",M+ LaLiga ➡ Unknown
+#EXTINF:-1 tvg-id="mpluslaliga" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="TEST",M+ LaLiga ➡ Unknown 1
 acestream://d4ff041287a43e3114d411d671c4b4e92e21f31e
-#EXTINF:-1 tvg-id="mpluslaliga" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="TEST",M+ LaLiga ➡ Unknown
+#EXTINF:-1 tvg-id="mpluslaliga" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="TEST",M+ LaLiga ➡ Unknown 1
 acestream://3965fec90fb8370675889e7d2f0e78888652857f
-#EXTINF:-1 tvg-id="daznlaliga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="TEST",DAZN LaLiga ➡ Unknown
+#EXTINF:-1 tvg-id="daznlaliga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="TEST",DAZN LaLiga ➡ Unknown 1
 acestream://4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="daznlaliga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="TEST",DAZN LaLiga ➡ Unknown
 acestream://e9c86ef2a37805347db90763c399f4dfd5dce7d3
